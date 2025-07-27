@@ -1,0 +1,10 @@
+{
+  "site_id": "TIM-BOR-001",
+  "historical_name": "Bor Flussseifen",
+  "modern_name": "Bor, Serbien",
+  "lat": 44.0,
+  "lon": 22.0,
+  "ree_indicators": ["Ilmenit"],
+  "zujovic_reference": "Žujović, 1893, S.42",
+  "confidence_score": 0.7
+}
