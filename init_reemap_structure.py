@@ -61,3 +61,4 @@ for file, content in files.items():
     print(f"📄 Datei erstellt: {path}")
 
 print("\n✅ Projektstruktur erfolgreich erstellt!")
+
